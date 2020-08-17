@@ -1,3 +1,3 @@
-### Hi, I'm Vadok...
-
-![banner](https://github.com/VadokDev/VadokDev/blob/master/banner2.jpg)
+<p align="center">
+  <img src="https://github.com/VadokDev/VadokDev/blob/master/banner3.jpg">
+</p>
